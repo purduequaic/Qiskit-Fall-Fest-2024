@@ -11,11 +11,11 @@ The Fall Fest here includes a series of workshops starting Oct 3 and ends with a
 
 --------------------------------
 ## Official Registration
-- Please register at https://purdue.ca1.qualtrics.com/jfe/form/SV_74gAJ3qOBtMEz9s
+- Please register at 
 
 ## Workshops
-- Oct 3 Quantum 101, 12:00 - 1:00 pm, NF 101
-- Oct 10 Intro to Qiskit, 12:00 - 1:00 pm, NF 101, see [qiskit-presentation repository](https://github.com/qiskit-community/qiskit-presentations/tree/master/2022-02-02_penn_state_workshop)
+- Oct 16 Quantum 101, 12:00 - 1:00 pm, NF 101
+- TBD
 
 ## Learn more about Quantum Computing
 - Please join [IBM Quantum Explorers](http://qisk.it/quantum-explorers), a self-paced gamified quantum learnng journey
@@ -23,8 +23,8 @@ The Fall Fest here includes a series of workshops starting Oct 3 and ends with a
 - read an open access book [***Quantum Computing for the Quantum Curious***](https://link.springer.com/book/10.1007/978-3-030-61601-4)
 ## Hackathon
 - Develop and present Qiskit Project, a team of 2 - 5
-- kick off with Hackathon Themee Revleved at 4 pm on Friday, Oct 21, ET 115
-- the winning teams will be announced on 4 pm, on Wednesday, Oct 26 at this page
+- kick off with Hackathon Themee Revleved at 4 pm on Friday, Nov 8, ET 115
+- the winning teams will be announced on 4 pm, on Wednesday, Nov 15 at this page
 - the first place tem will get the IBM Swags.
 - participating teams will get certificates.
 
@@ -57,8 +57,8 @@ The Fall Fest here includes a series of workshops starting Oct 3 and ends with a
 -	All submissions must be built using an open source license, if applicable
 -	Projects built are owned by the teams which constructed them
 -	Teams must be at least 2 members, but no more than 4 members.
--	You cannot begin building your project until the Hack-a-thon KICK-OFF on October 21, 4 PM EDT
--	You must submit your project before the provided deadline on October 23rd, 4 PM EDT
+-	You cannot begin building your project until the Hack-a-thon KICK-OFF on 
+-	You must submit your project before the provided deadline on 
 -	Full judging criteria can be found on the next page
 -	Projects will be judged by the organizers following the Guidelines on the net page
 
