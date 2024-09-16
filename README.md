@@ -7,7 +7,7 @@ We are one of 50 campuses around the world and the only one in Indiana to host t
 
 The [Qiskit Fall Fest](https://medium.com/qiskit/introducing-the-qiskit-fall-fest-feb8456b557) is a collection of quantum computing events on college campuses around the world. Every Fall Fest event is organized and run by the students on each campus, with support from the entire IBM Quantum team. Student leaders work alongside IBM throughout the month of September to design and plan their event, which are then run in October. The events vary from technical hackathons to beginner-friendly challenges, all with the goal of helping to grow the local community’s skill set.
 
-The Fall Fest here includes a series of workshops starting Oct 3 and ends with a hackathon, October 21 - 23. Details are coming.
+The Fall Fest here includes a series of workshops starting Oct 16 and ends with a hackathon, November 8 - 9. Details are coming.
 
 --------------------------------
 ## Official Registration
@@ -34,7 +34,7 @@ The Fall Fest here includes a series of workshops starting Oct 3 and ends with a
 
 ## Submission and Presentation
 - email github public link to Dr. Liu Liud@pfw.edu. README.md should include team members
-- attend and give a presentation of 7 minuutes plus 3 minute Q & A per team at 4 pm, on Sunday, Oct 23
+- attend and give a presentation of 7 minuutes plus 3 minute Q & A per team at 4 pm, on Sunday, Nov 10
 
 ## Judging Criteria 
 - The wiiner announcements are final.
