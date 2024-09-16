@@ -1,7 +1,7 @@
 # Qiskit Fall Fest 2024
 
 ## Welcome
-This is the Qiskit Fall Fest event for Purdue Universit Fort Wayne. We're so exciting to have you all here. This event is being hosted by **Purdue University QUantum and AI Center (QUAIC)** sponsored by **IBM** and **PFW Department of Computer Science**. 
+This is the Qiskit Fall Fest event for Purdue Universit Fort Wayne. We're so exciting to have you all here. This event is being hosted by **Purdue Quantum Intelligent Applications and Optimization (QIAO) Lab** sponsored by **IBM**, **Purdue Univeristy Fort Wayne Computer Science Department**, **Purude Fort Wayne ETCS**, and **National Science Foundation (NSF)**. 
 
 We are one of 50 campuses around the world and the only one in Indiana to host the IBM sponsored [Qiskit Fall Fest Events](https://qiskit.org/events/fall-fest/).
 
