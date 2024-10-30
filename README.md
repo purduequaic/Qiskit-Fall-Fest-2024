@@ -22,8 +22,9 @@ The Fall Fest here includes a series of workshops starting Oct 16 and ends with 
 - read an open access book [***Quantum Computing for the Quantum Curious***](https://link.springer.com/book/10.1007/978-3-030-61601-4)
   
 ## Hackathon
-- Develop and present a Qiskit Project, a team of 2 - 5
-- kick off with Hackathon Themee Revleved at 1 pm on Friday, Nov 8, ET 131
+- Develop and present a Qiskit Project, a team of 1-3
+- kick off with Hackathon Themee Revleved at 1 pm on Friday, Nov 8, ET 107
+- Hackathon Presentation at 5 pm, on Sunday, Nov 10
 - the winning teams will be announced on 5 pm, on Wednesday, Nov 20 at this page
 - the first place team will get the IBM Swags.
 - participating teams will get certificates.
