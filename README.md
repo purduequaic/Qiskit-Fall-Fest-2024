@@ -14,8 +14,8 @@ The Fall Fest here includes a series of workshops starting Oct 16 and ends with 
 - Please register at 
 
 ## Workshops
-- Oct 16 Quantum 101, 12:00 - 1:00 pm, NF 101
-- Nov 6  Quantum 102, 6:00  - 7:00 pm, KT 246
+- Oct 16 Kickoff, 12:00 - 1:00 pm, NF 101
+- Nov 6  Quantum 101, 6:00  - 7:00 pm, KT 246
 
 ## Learn more about Quantum Computing
 - Explore Quantum Computing at [***IBM Quantum Learning***](https://learning.quantum.ibm.com/)
