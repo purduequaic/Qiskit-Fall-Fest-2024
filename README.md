@@ -15,16 +15,16 @@ The Fall Fest here includes a series of workshops starting Oct 16 and ends with 
 
 ## Workshops
 - Oct 16 Quantum 101, 12:00 - 1:00 pm, NF 101
-- Nov 6  Quantum 102, 6:00 - 7:00 pm,  KT 246
+- Nov 6  Quantum 102, 6:00  - 7:00 pm, KT 246
 
 ## Learn more about Quantum Computing
-- Explore Quantum Computing at [IBM Quantum Learning](https://learning.quantum.ibm.com/)
+- Explore Quantum Computing at [***IBM Quantum Learning***](https://learning.quantum.ibm.com/)
 - read an open access book [***Quantum Computing for the Quantum Curious***](https://link.springer.com/book/10.1007/978-3-030-61601-4)
   
 ## Hackathon
 - Develop and present Qiskit Project, a team of 2 - 5
-- kick off with Hackathon Themee Revleved at 4 pm on Friday, Nov 8, ET 115
-- the winning teams will be announced on 4 pm, on Wednesday, Nov 15 at this page
+- kick off with Hackathon Themee Revleved at 1 pm on Friday, Nov 8, ET 131
+- the winning teams will be announced on 4 pm, on Wednesday, Nov 20 at this page
 - the first place tem will get the IBM Swags.
 - participating teams will get certificates.
 
@@ -34,7 +34,7 @@ The Fall Fest here includes a series of workshops starting Oct 16 and ends with 
 
 ## Submission and Presentation
 - email github public link to Dr. Liu Liud@pfw.edu. README.md should include team members
-- attend and give a presentation of 7 minuutes plus 3 minute Q & A per team at 4 pm, on Sunday, Nov 10
+- attend and give a presentation of 5 minuutes plus 2 minute Q & A per team at 5 pm, on Sunday, Nov 10
 
 ## Judging Criteria 
 - The wiiner announcements are final.
