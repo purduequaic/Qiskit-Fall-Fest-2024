@@ -11,7 +11,8 @@ The Fall Fest here includes a series of workshops starting Oct 16 and ends with 
 
 --------------------------------
 ## Official Registration
-- Please register at 
+- Please register at https://purdue.ca1.qualtrics.com/jfe/form/SV_74gAJ3qOBtMEz9s for future communication
+- Registration is not required to participate in the events.
 
 ## Workshops
 - Oct 16 Kickoff, 12:00 - 1:00 pm, NF 101
