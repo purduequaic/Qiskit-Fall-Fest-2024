@@ -16,7 +16,7 @@ The Fall Fest here includes a series of workshops starting Oct 16 and ends with 
 
 ## Workshops
 - Oct 16 Kickoff, 12:00 - 1:00 pm, NF 101
-- Nov 6  Quantum 101, 6:00  - 7:00 pm, KT 246
+- Nov 6  Quantum 101, 6:00  - 7:00 pm, KT 246 [Presentation Repository](https://github.com/qiskit-community/qiskit-presentations/tree/master/2022-02-02_penn_state_workshop)
 
 ## Learn more about Quantum Computing
 - Explore Quantum Computing at [***IBM Quantum Learning***](https://learning.quantum.ibm.com/)
