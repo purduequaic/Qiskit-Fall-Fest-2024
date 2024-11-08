@@ -20,7 +20,7 @@ The Fall Fest here includes a series of workshops starting Oct 16 and ends with 
 
 ## Learn more about Quantum Computing
 - Explore Quantum Computing at [***IBM Quantum Learning***](https://learning.quantum.ibm.com/)
-- read an open access book [***Quantum Computing for the Quantum Curious***](https://link.springer.com/book/10.1007/978-3-030-61601-4)
+- Read an open access book [***Quantum Computing for the Quantum Curious***](https://link.springer.com/book/10.1007/978-3-030-61601-4)
   
 ## Hackathon Preparation
 - Please download two notebooks to learn about Quantum Compting in Qiskit
@@ -33,7 +33,7 @@ The Fall Fest here includes a series of workshops starting Oct 16 and ends with 
 - There are two types of projects
   - Develop an open project using Qiskit and create a Juypter Notebook to show potential quantum algorithms in chemistry and materials science to solve problems such as
     drug discovery, new battery, and others.
-  - complete three graded Jupyter notebooks (avaiable at 1 pm)
+  - Complete three graded Jupyter notebooks (avaiable at 1 pm)
     - [Grade Notebook 1](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/blob/main/QFF_Graded_Notebook_1.ipynb)
     - [Grade Notebook 2](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/blob/main/QFF_Graded_Notebook_2.ipynb)
     - [Grade Notebook 3](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/blob/main/QFF_Graded_Notebook_3.ipynb)
