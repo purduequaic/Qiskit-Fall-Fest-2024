@@ -39,10 +39,11 @@ The Fall Fest here includes a series of workshops starting Oct 16 and ends with 
     - [Open Notebook 3](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/blob/main/Open_Notebook_A-2.ipynb)
 - Hackathon Presentation at 5 pm, on Sunday, Nov 10
 - The winning teams will be announced on 5 pm, on Wednesday, Nov 20 at this page
-- The first place team will get the IBM Swags.
+- The first place team will get the IBM Swags. Two winning teams, one for each type of projects.
 - Participating teams will get certificates.
 
 ## Submission and Presentation
+- Create a public github repository and upload your solutions.
 - email github public link to Dr. Liu Liud@pfw.edu. README.md should include team members
 - attend and give a presentation of 5 minuutes plus 2 minute Q & A per team at 5 pm, on Sunday, Nov 10
 
