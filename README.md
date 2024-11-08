@@ -34,9 +34,9 @@ The Fall Fest here includes a series of workshops starting Oct 16 and ends with 
   - Develop an open project using Qiskit and create a Juypter Notebook to show potential quantum algorithms in chemistry and materials science to solve problems such as
     drug discovery, new battery, and others.
   - complete three graded Jupyter notebooks (avaiable at 1 pm)
-    - [Grade Notebook 1](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/blob/main/Open_Notebook_A-2.ipynb)
-    - [Open Notebook 2](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/blob/main/Open_Notebook_A-2.ipynb)
-    - [Open Notebook 3](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/blob/main/Open_Notebook_A-2.ipynb)
+    - [Grade Notebook 1](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/blob/main/QFF_Graded_Notebook_1.ipynb)
+    - [Grade Notebook 2](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/blob/main/QFF_Graded_Notebook_2.ipynb)
+    - [Grade Notebook 3](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/blob/main/QFF_Graded_Notebook_3.ipynb)
 - Hackathon Presentation at 5 pm, on Sunday, Nov 10
 - The winning teams will be announced on 5 pm, on Wednesday, Nov 20 at this page
 - The first place team will get the IBM Swags. Two winning teams, one for each type of projects.
