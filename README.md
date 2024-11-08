@@ -24,8 +24,8 @@ The Fall Fest here includes a series of workshops starting Oct 16 and ends with 
   
 ## Hackathon Preparation
 - Please download two notebooks to learn about Quantum Compting in Qiskit
-- [Open Notebook A]([https://github.com/purduequaic/Qiskit-Fall-Fest-2024/edit/main/README.md](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/blob/main/Open_Notebook_A-2.ipynb))
-- [Open Notebook B]([https://github.com/purduequaic/Qiskit-Fall-Fest-2024/edit/main/README.md](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/blob/main/Open_Notebook_B-2.ipynb))
+- [Open Notebook A](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/blob/main/Open_Notebook_A-2.ipynb)
+- [Open Notebook B](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/blob/main/Open_Notebook_B-2.ipynb)
 ## Hackathon
 - Develop and present a Qiskit Project, a team of 1-3
 - kick off with Hackathon Themee Revleved at 1 pm on Friday, Nov 8, ET 107
