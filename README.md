@@ -27,16 +27,19 @@ The Fall Fest here includes a series of workshops starting Oct 16 and ends with 
 - [Open Notebook A](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/blob/main/Open_Notebook_A-2.ipynb)
 - [Open Notebook B](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/blob/main/Open_Notebook_B-2.ipynb)
 ## Hackathon
-- Develop and present a Qiskit Project, a team of 1-3
 - kick off with Hackathon Themee Revleved at 1 pm on Friday, Nov 8, ET 107
+- Develop and present a Qiskit Project, a team of 1-3
+- There are two type of projects
+  - Develop an open project using Qiskit and create a Juypter Notebook to show potential quantum algorithms in chemistry and materials science to solve problems such as
+    drug discovery, new battery, and others.
+  - complete three graded Jupyter notebooks (avaiable at 1 pm)
+    - [Grade Notebook 1](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/blob/main/Open_Notebook_A-2.ipynb)
+    - [Open Notebook 2](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/blob/main/Open_Notebook_A-2.ipynb)
+    - [Open Notebook 3](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/blob/main/Open_Notebook_A-2.ipynb)
 - Hackathon Presentation at 5 pm, on Sunday, Nov 10
 - the winning teams will be announced on 5 pm, on Wednesday, Nov 20 at this page
 - the first place team will get the IBM Swags.
 - participating teams will get certificates.
-
-## Hackathon Theme
-- create a project to help others learn about certain hard principles or concepts of quantum information science, and engineering, or
-- create a project to show how quantum technology can apply to solve hard problem
 
 ## Submission and Presentation
 - email github public link to Dr. Liu Liud@pfw.edu. README.md should include team members
