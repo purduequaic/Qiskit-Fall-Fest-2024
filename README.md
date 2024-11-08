@@ -22,6 +22,10 @@ The Fall Fest here includes a series of workshops starting Oct 16 and ends with 
 - Explore Quantum Computing at [***IBM Quantum Learning***](https://learning.quantum.ibm.com/)
 - read an open access book [***Quantum Computing for the Quantum Curious***](https://link.springer.com/book/10.1007/978-3-030-61601-4)
   
+## Hackathon Preparation
+- Please download two notebooks to learn about Quantum Compting in Qiskit
+- [Open Notebook A](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/edit/main/README.md)
+- [Open Notebook A](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/edit/main/README.md)
 ## Hackathon
 - Develop and present a Qiskit Project, a team of 1-3
 - kick off with Hackathon Themee Revleved at 1 pm on Friday, Nov 8, ET 107
