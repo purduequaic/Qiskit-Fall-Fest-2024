@@ -28,9 +28,9 @@ The Fall Fest here includes a series of workshops starting Oct 16 and ends with 
 - [Open Notebook B](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/blob/main/Open_Notebook_B-2.ipynb)
 - Upload these notebook into https://colab.research.google.com/ and run the notebooks
 ## Hackathon
-- kick off with Hackathon Themee Revleved at 1 pm on Friday, Nov 8, ET 107
+- Kick off with Hackathon Themee Revleved at 1 pm on Friday, Nov 8, ET 107
 - Develop and present a Qiskit Project, a team of 1-2
-- There are two type of projects
+- There are two types of projects
   - Develop an open project using Qiskit and create a Juypter Notebook to show potential quantum algorithms in chemistry and materials science to solve problems such as
     drug discovery, new battery, and others.
   - complete three graded Jupyter notebooks (avaiable at 1 pm)
@@ -74,8 +74,9 @@ The Fall Fest here includes a series of workshops starting Oct 16 and ends with 
 -	Projects will be judged by the organizers following the Guidelines on the net page
 
 ## Winners
-- First Place: 
-   - 
+- Open Project First Place:
+- Notebook Hackathin First Place:
+
      
    
 <br><br>
