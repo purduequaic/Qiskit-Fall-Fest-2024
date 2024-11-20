@@ -74,8 +74,8 @@ The Fall Fest here includes a series of workshops starting Oct 16 and ends with 
 -	Projects will be judged by the organizers following the Guidelines on the net page
 
 ## Winners
-- Open Project First Place: Diana Karim, CS undergradute student
-- Notebook Hackathin First Place: ## Diana Karim, CS undergradute student##
+- Open Project First Place: 
+- Notebook Hackathin First Place: **Diana Karim, CS undergradute student**
 
      
    
